@@ -22,7 +22,7 @@
         <maven-pmd-plugin.version>3.19.0</maven-pmd-plugin.version>
         <maven-apache-plugins.version>3.8.1</maven-apache-plugins.version>
         <maven-site-plugin.version>4.0.0-M5</maven-site-plugin.version>
-        <dependency-check-maven.version>8.1.0</dependency-check-maven.version>
+        <dependency-check-maven.version>8.2.1</dependency-check-maven.version>
         <impsort-maven-plugin.version>1.7.0</impsort-maven-plugin.version>
 
         <!-- Spring boot version -->
